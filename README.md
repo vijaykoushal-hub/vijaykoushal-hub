@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @vijaykoushal-hub
-- 👀 I’m interested in 3d design, 2d design, full stack, gaming 
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instgram(vijay_fx3)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Vijay Koushal
 
-<!---
-vijaykoushal-hub/vijaykoushal-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 **3D & 2D Designer** | 💻 **Full Stack Enthusiast** | 🎮 **Gaming Lover**
+
+---
+
+## 🌟 About Me
+- 👀 I’m passionate about **3D design, 2D design, full stack development, and gaming**.  
+- 🌱 I’m currently learning **Web Development** to enhance my frontend & backend skills.  
+- 💞️ I’m open to collaborating on **creative design and full stack projects**.  
+- ⚡ Fun fact: I love blending art and technology to create immersive digital experiences.  
+- 📫 Reach me on **Instagram:** [@vijay_fx3](https://instagram.com/vijay_fx3)
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Frontend:** React (learning), Tailwind CSS  
+- **Backend:** Node.js, Express (learning)  
+- **Design Tools:** Blender, Photoshop, Figma  
+- **Other Interests:** Game Development, 3D Animation
+
+---
+## 🤝 Let's Connect
+- 💼 Instagram: [@vijay_fx3](https://instagram.com/vijay_fx3)  
+- 🌐 Portfolio (coming soon!)
+
+---
+
+⭐ *“Design is intelligence made visible.” – Alina Wheeler*
